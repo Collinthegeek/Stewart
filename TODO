@@ -1,7 +1,7 @@
  Fixes:
 Make water impassable (It's set to impassable but it's not working)
-Movement is sluggish and gross
 Black box around Stewart? He's a png so it should be transparent
+The collisions break a bit when the map scrolls, it's because I blit the sprites to x-xshift,y-yshift but it reads x,y for collisions, might be easy and might be incredibly difficult
 
  Additions:
 More sprites
