@@ -1,0 +1,19 @@
+ Fixes:
+Make water impassable (It's set to impassable but it's not working)
+Movement is sluggish and gross
+Black box around Stewart? He's a png so it should be transparent
+
+ Additions:
+More sprites
+Make a map
+Minimap in the corner
+Add NPCs
+Add Items/pickups
+Add health
+Add Monsters
+Add party members
+Buildings
+Dialog boxes
+More stuff, Basically I want to be like an Ultima/Final Fantasy game
+
+
